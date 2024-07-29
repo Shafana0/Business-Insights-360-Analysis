@@ -22,6 +22,13 @@ The objective of this project is to develop and implement a comprehensive data a
 4. **Marketing View**: Marketing effectiveness evaluation.
 5. **Supply Chain View**: Supply chain analysis.
 6. **Executive View**: Summary for strategic decision-making.
+## Datasets
+The data for this project is sourced from two SQL databases, which include various dimension and fact tables. The datasets cover key business areas and are used to provide insights and support decision-making.
+## Data Model
+The data model for this project is designed using a **snowflake schema**. This schema includes:
+- **Fact Tables**: Central tables containing transactional data.
+- **Dimension Tables**: Tables that describe the attributes related to the fact tables, organized in a hierarchical structure.
+
 ## Live Dashboard
 You can view the live dashboard at the following link: [Live Dashboard](https://lnkd.in/gPRMvFne)
 ## Technical and Soft Skills
