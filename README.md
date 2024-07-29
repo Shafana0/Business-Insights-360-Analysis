@@ -39,4 +39,4 @@ You can view the live dashboard at the following link: [Live Dashboard](https://
 - Communication
 - Analytical thinking
 
-For any questions or feedback, please reach out to [Linkedin](linkedin.com/in/shafana-09579328b).
+For any questions or feedback, please reach out to [Linkedin](https://www.linkedin.com/in/shafana-09579328b/).
